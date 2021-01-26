@@ -4,17 +4,12 @@
 @tailwind components;
 @tailwind utilities;
 
-.text-gradient {
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
 body {
   background: #232225;
 }
 
 span {
-  @apply text-gradient bg-gradient-to-r from-red-400 to-pink-400 text-opacity-100;
+  @apply text-purple-400
 }
 
 span.wavy {
