@@ -4,8 +4,8 @@ export default function Nav() {
 
     const links = [
         { href: 'https://medium.com/@sarthaktexas', label: 'writing' },
-        { href: '/', label: 'reading' },
-        { href: '/', label: 'thoughts'}
+        //{ href: '/', label: 'reading' },
+        { href: 'https://twitter.com/sarthaktexas', label: 'thoughts'}
     ]
 
     return (
