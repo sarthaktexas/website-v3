@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-gradient {
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+body {
+  background: #232225;
+}
+
+span {
+  @apply text-gradient bg-gradient-to-r from-red-400 to-pink-400 text-opacity-100;
+}
+
+span.wavy {
+  text-decoration-style: wavy;
+}
+
+a {
+  @apply underline text-white text-opacity-100
+}
+
+.a {
+  @apply pointer-events-auto no-underline bg-purple-500 text-opacity-100 bg-opacity-30 rounded-lg px-2 py-px hover:bg-opacity-50
+}
+
+.p {
+  @apply opacity-70 text-lg
+}
+
+.cv-heading {
+  @apply mt-4 mb-2 text-white opacity-80 font-bold text-xl
+}
+
+li {
+  @apply list-disc list-inside pl-4 my-2 opacity-70
+}
