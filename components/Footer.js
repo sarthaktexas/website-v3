@@ -7,7 +7,7 @@ export default function Footer() {
 
     return (
         <div className="mt-4 text-sm opacity-70">
-            &copy; {new Date().getFullYear()} Sarthak Mohanty. All rights reserved. Currently {data?.status}{data?.status.charAt(data?.status.length - 1) === '.' ? '' : '.'}
+            &copy; {new Date().getFullYear()} Sarthak Mohanty. All rights reserved. Currently {data?.status ? data?.status : 'not doing anything useful'}{data?.status.charAt(data?.status.length - 1) === '.' ? '' : '.'}
         </div>
     )
 }
