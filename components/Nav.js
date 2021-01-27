@@ -3,9 +3,11 @@ import Link from 'next/link'
 export default function Nav() {
 
     const links = [
-        { href: 'https://medium.com/@sarthaktexas', label: 'writing' },
+        { href: '/', label: 'home' },
+        { href: '/manifesto', label: 'manifesto' },
+        //{ href: 'https://medium.com/@sarthaktexas', label: 'writing' },
         //{ href: '/', label: 'reading' },
-        { href: 'https://twitter.com/sarthaktexas', label: 'thoughts'}
+        //{ href: 'https://twitter.com/sarthaktexas', label: 'thoughts'}
     ]
 
     return (

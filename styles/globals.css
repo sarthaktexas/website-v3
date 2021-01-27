@@ -9,7 +9,7 @@ body {
 }
 
 span {
-  @apply text-purple-400
+  @apply text-purple-400 opacity-100
 }
 
 span.wavy {
@@ -34,4 +34,8 @@ a {
 
 li {
   @apply list-disc list-inside pl-4 my-2 opacity-70
+}
+
+.story {
+  @apply mb-4 opacity-70 text-lg
 }
