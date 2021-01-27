@@ -37,7 +37,7 @@ export default function Home() {
             <h1 className="cv-heading">
               Links
             </h1>
-            <li><a href="https://github.com/sarthaktexas" target="_blank">GitHub</a>, <a href="https://dribbble.com/sarthaktexas">Dribbble</a></li>
+            <li><a href="https://github.com/sarthaktexas" target="_blank">GitHub</a>, <a href="https://dribbble.com/sarthakmohanty">Dribbble</a></li>
             <li><a href="https://linkedin.com/in/sarthaktexas" target="_blank">LinkedIn</a>, <a href="https://medium.com/@sarthaktexas" target="_blank">Medium</a>, <a href="https://twitter.com/sarthaktexas" target="_blank">Twitter</a>, <a href="https://instagram.com/sarthakmohan.ty" target="_blank">Instagram</a></li>
             <li>Email me at <a href="mailto:sarthak@sarthakmohanty.me" target="_blank">sarthak@sarthakmohanty.me</a></li>
             <h1 className="cv-heading">
