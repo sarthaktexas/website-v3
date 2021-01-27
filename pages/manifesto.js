@@ -9,7 +9,7 @@ export default function About() {
                         While on this futile earth, I've come up with principles to lead my life. They've come from my experiences and interactions with other people and I live by them everyday.
                     </p>
                     <p className="story">
-                        I'm compelled to challenge the present and create the future. I create new things. I see these as the verbs that govern my life: <span className="text-red-400 underline">make</span>, <span className="text-red-400 underline">create</span>, and <span className="text-red-400 underline">think</span>. I like to stand tall even if I'm the odd one out.
+                        I'm compelled to challenge the present and create the future. I create new things. I see these as the verbs that govern my life: <span className="text-red-400 underline">make</span>, <span className="text-red-400 underline">create</span>, <span className="text-red-400 underline">dream</span>, and <span className="text-red-400 underline">think</span>. I like to stand tall even if I'm the odd one out.
                     </p>
                     <p className="story">
                         I am who I am and I have the need to be. I endlessly create with a burning passion. <span className="text-red-400">My brain overflows with creativity which transpires from my imagination. Invention is the organ that has grown ever since I could think for myself.</span>
