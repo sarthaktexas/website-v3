@@ -4,7 +4,7 @@ import Nav from '../components/Nav'
 
 export default function Layout({heading, children}) {
     return (
-        <div className="text-white pointer-events-none">
+        <div className="text-white font-sans pointer-events-none">
             <Head />
             <main className="my-10 md:mt-20 md:mb-10 px-10 md:px-0 md:w-1/2 mx-auto">
                 <section className="flex flex-col space-y-5">

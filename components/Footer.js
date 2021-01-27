@@ -11,7 +11,7 @@ export default function Footer() {
             &copy; {new Date().getFullYear()} Sarthak Mohanty. All rights reserved.{' '}
             <br />
             Currently {status?.status ? status?.status : 'not doing anything useful'}{status?.status.charAt(status?.status.length - 1) === '.' ? '' : '.'}{' '}
-            Listening to <div className={`${song?.title ? 'font-bold inline' : ''}`}>{song?.title || 'nothing at the moment.'}</div>{song?.artist ? ` by ${song?.artist}.` : ''}
+            Listening to <div className={`inline ${song?.title ? 'font-bold' : ''}`}>{song?.title || 'nothing at the moment.'}</div>{song?.artist ? ` by ${song?.artist}.` : ''}
         </div>
     )
 }
