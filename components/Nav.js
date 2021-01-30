@@ -4,9 +4,9 @@ export default function Nav() {
 
     const links = [
         { href: '/', label: 'home' },
+        { href: '/about', label: 'about' },
         { href: '/manifesto', label: 'manifesto' },
         //{ href: 'https://medium.com/@sarthaktexas', label: 'writing' },
-        //{ href: '/', label: 'reading' },
         //{ href: 'https://twitter.com/sarthaktexas', label: 'thoughts'}
     ]
 
