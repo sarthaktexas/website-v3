@@ -1,6 +1,4 @@
 import Layout from '../components/Layout'
-import ReactPlaceholder from 'react-placeholder'
-import 'react-placeholder/lib/reactPlaceholder.css'
 
 export default function About() {
     return (
