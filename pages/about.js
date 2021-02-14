@@ -1,10 +1,14 @@
 import Layout from '../components/Layout'
+import ReactPlaceholder from 'react-placeholder'
+import 'react-placeholder/lib/reactPlaceholder.css'
 
 export default function About() {
     return (
         <Layout heading="about">
             <div className="flex flex-row md:flex-row space-x-5">
-                <img className="w-20 h-20 rounded-full" src="/sarthak.jpg" />
+                <ReactPlaceholder showLoadingAnimation={true} type='round' ready={false} color='#E0E0E0' style={{ width: 20, height: 20 }}>
+                    <img className="w-20 h-20 rounded-full" src="/sarthak.jpg" />
+                </ReactPlaceholder>
                 <div>
                     <h2 className="font-bold text-2xl md:text-4xl">Sarthak Mohanty</h2>
                     <h3 className="opacity-70 text-lg">Human in training.</h3>
