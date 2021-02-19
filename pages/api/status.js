@@ -1,4 +1,5 @@
 import { get } from 'axios'
+import { emojify } from 'node-emoji'
 
 export default async (req, res) => {
   const data = await get('https://slack.com/api/users.profile.get', {
@@ -22,24 +23,6 @@ export default async (req, res) => {
 }
 
 async function getEmoji(slackEmoji) {
-  switch (slackEmoji) {
-    case ':thought_balloon:':
-      return '💭'
-      break;
-    case ':building_construction:':
-      return '🏗'
-      break;
-    case ':headphones:':
-      return '🎧'
-      break;
-    case ':zzz:':
-      return '💤'
-      break;
-    case ':pencil:':
-      return '📝'
-      break;
-    default:
-      return ''
-      break;
-  }
+  if (slackEmoji === ':speech_balloon:') { slackEmoji = '' }
+  return emojify(slackEmoji);
 }

@@ -11,6 +11,7 @@
     "autoprefixer": "^10.2.3",
     "axios": "^0.21.1",
     "next": "10.0.5",
+    "node-emoji": "^1.10.0",
     "postcss": "^8.2.4",
     "querystring": "^0.2.0",
     "react": "17.0.1",
