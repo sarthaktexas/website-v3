@@ -18,6 +18,7 @@ export default function Home() {
             <h1 className="cv-heading">
               Experience
             </h1>
+            <li>Organizer at AngelHacks, January 2021 - present</li>
             <li>Web developer and design at Mintere, LLC, December 2020 - present</li>
             <li>Lead Organizer at Alamo City Hacks, October 2020 - present</li>
             <li>Rising senior at Brandeis High School, August 2019 - June 2022.</li>
@@ -30,6 +31,7 @@ export default function Home() {
             <li>Resource Bank</li>
             <li>Link Shortener</li>
             <li>Hyper by Alamo City Hacks</li>
+            <li>AngelHacks 2.0</li>
             <h1 className="cv-heading">
               Press
             </h1>
