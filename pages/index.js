@@ -32,6 +32,7 @@ export default function Home() {
             <li>Link Shortener</li>
             <li>Hyper by Alamo City Hacks</li>
             <li>AngelHacks 2.0</li>
+            <li>Hack Club Vote</li>
             <h1 className="cv-heading">
               Press
             </h1>
