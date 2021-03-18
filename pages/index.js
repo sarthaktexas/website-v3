@@ -1,6 +1,7 @@
 import Head from '../components/Head'
 import Footer from '../components/Footer'
 import Nav from '../components/Nav'
+import Newsletter from '../components/Newsletter'
 
 export default function Home() {
   return (
@@ -51,6 +52,7 @@ export default function Home() {
             <li><a href="/">v3</a></li>
           </details>
         </section>
+        {/* <Newsletter /> */}
         <Footer />
       </main>
     </div>

@@ -6,7 +6,7 @@ export default function HeadObject({children}) {
   const keywords = "sarthak, mohanty, sarthak mohanty, san antonio, texas, san, antonio, design, designer, developer, programmer, html, css, js, node, express, react, next, gatsby, vercel";
   const author = "Sarthak Mohanty";
   const twitter = "@sarthaktexas";
-  //const image = "/ogimage.png";
+  const image = "/og-image.png";
     return (
       <Head>
           <meta charSet="utf-8" />
@@ -20,7 +20,7 @@ export default function HeadObject({children}) {
           <meta property="og:type" content="website" />
           <meta property="og:title" content={title} />
           <meta property="og:description" content={description} />
-        {/*<meta property="og:image" content={image} />*/}
+          <meta property="og:image" content={image} />
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content={twitter} />
           <meta name="twitter:creator" content={twitter} />
