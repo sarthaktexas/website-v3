@@ -19,7 +19,7 @@ export default function Home() {
             <h1 className="cv-heading">
               Experience
             </h1>
-            <li>Open Source at Fiveable, March 2021 - present</li>
+            <li>Open Source Lead at Fiveable, March 2021 - present</li>
             <li>Co-organizer at AngelHacks, January 2021 - present</li>
             <li>Web developer and design at Mintere, LLC, December 2020 - present</li>
             <li>Lead Organizer at Alamo City Hacks, October 2020 - present</li>
