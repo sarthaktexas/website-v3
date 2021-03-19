@@ -10,7 +10,6 @@ export default function HeadObject({children}) {
     return (
       <Head>
           <meta charSet="utf-8" />
-          <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta name="viewport" content="width=device-width,initial-scale=1" />
           <title>{title}</title>
           <meta name="description" content={description} />
@@ -21,10 +20,10 @@ export default function HeadObject({children}) {
           <meta property="og:title" content={title} />
           <meta property="og:description" content={description} />
           <meta property="og:image" content={image} />
-          <meta name="twitter:card" content="summary" />
+          <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:site" content={twitter} />
           <meta name="twitter:creator" content={twitter} />
-          <script async defer data-website-id="e39b497a-ff19-4ad0-bad6-4ef80cab9cde" src="https://analytics.sarthakmohanty.me/umami.js"></script>
+          <script async data-website-id="e39b497a-ff19-4ad0-bad6-4ef80cab9cde" src="https://analytics.sarthakmohanty.me/umami.js"></script>
           {children}
         </Head>
     )
