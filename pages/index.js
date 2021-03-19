@@ -19,11 +19,12 @@ export default function Home() {
             <h1 className="cv-heading">
               Experience
             </h1>
-            <li>Organizer at AngelHacks, January 2021 - present</li>
+            <li>Open Source at Fiveable, March 2021 - present</li>
+            <li>Co-organizer at AngelHacks, January 2021 - present</li>
             <li>Web developer and design at Mintere, LLC, December 2020 - present</li>
             <li>Lead Organizer at Alamo City Hacks, October 2020 - present</li>
             <li>Rising senior at Brandeis High School, August 2019 - June 2022.</li>
-            <li>Social Media Marketing and Research Intern at Fiveable, May 2019 - August 2019</li>
+            <li>Social Media at Fiveable, May 2019 - August 2019</li>
             <li>Student Volunteer at Youth Code Jam, May 2018 - present</li>
             <h1 className="cv-heading">
               Projects
@@ -34,6 +35,7 @@ export default function Home() {
             <li>Hyper by Alamo City Hacks</li>
             <li>AngelHacks 2.0</li>
             <li>Hack Club Vote</li>
+            <li>Fiveable Open Source Initiative</li>
             <h1 className="cv-heading">
               Press
             </h1>
