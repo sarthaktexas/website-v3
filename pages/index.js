@@ -20,6 +20,7 @@ export default function Home() {
               Experience
             </h1>
             <li>Open Source Lead at Fiveable, March 2021 - present</li>
+            <li>Director of Branding at HackIndiana, February 2021 - present</li>
             <li>Co-organizer at AngelHacks, January 2021 - present</li>
             <li>Web developer and design at Mintere, LLC, December 2020 - present</li>
             <li>Lead Organizer at Alamo City Hacks, October 2020 - present</li>
@@ -29,13 +30,14 @@ export default function Home() {
             <h1 className="cv-heading">
               Projects
             </h1>
-            <li>Zoom Dashboard</li>
+            <li>Zoom Dashboard [Archived]</li>
             <li>Resource Bank</li>
             <li>Link Shortener</li>
-            <li>Hyper by Alamo City Hacks</li>
-            <li>AngelHacks 2.0</li>
-            <li>Hack Club Vote</li>
-            <li>Fiveable Open Source Initiative</li>
+            <li><a href="https://alamocityhacks.com" className="underline">Hyper by Alamo City Hacks</a></li>
+            <li><a href="https://angelhacks.org" className="underline">AngelHacks 2.0</a></li>
+            <li><a href="https://vote.hackclub.com" className="underline">Hack Club Vote</a></li>
+            <li><a href="https://open.fiveable.me" className="underline">Fiveable Open Source Initiative</a></li>
+            <li>Dunes by HackIndiana</li>
             <h1 className="cv-heading">
               Press
             </h1>
