@@ -56,7 +56,7 @@ export default function Home() {
             <li><a href="/">v3</a></li>
           </details>
         </section>
-        {/* <Newsletter /> */}
+        <Newsletter />
         <Footer />
       </main>
     </div>
