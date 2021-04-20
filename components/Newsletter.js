@@ -14,7 +14,7 @@ export default function Newsletter() {
     };
     return (
         <>
-            <form className="rounded p-4 bg-black bg-opacity-20 pointer-events-auto flex flex-col space-y-2 w-1/2" onSubmit={handleSubmit(onSubmit)}>
+            <form className="rounded p-4 bg-black bg-opacity-20 pointer-events-auto flex flex-col space-y-2 md:w-1/2" onSubmit={handleSubmit(onSubmit)}>
                 <h1 className="font-bold text-lg">Join my newsletter!</h1>
                 <label htmlFor="bd-email" className=" text-white text-opacity-50">Enter your email</label>
                 <input className="text-black rounded p-2 focus:ring-purple-500" ref={register} type="email" name="email" id="bd-email" placeholder="sarthak@sarthakmohanty.me" disabled={formState.isSubmitting} />
