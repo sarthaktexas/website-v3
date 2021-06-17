@@ -13,12 +13,13 @@ export default function Home() {
           <Nav />
           <p className="p">I'm an ambitious high school senior who believes that when creativity is expressed, the result can be beautiful. I'm a full stack developer and designer focusing on <span>interactive web experiences</span> and <span>natural design</span>.</p>
           <p className="p">I currently live and attend school down in the heart of the Texas hill country with my playful (and more responsible) friends. I'm glad to have them and I couldn't have reached where I am without them. In particular, thank you Christina, for keeping me sane when I'm insane; Lillian, for staying by my side since the beginning of time; Jacob, for letting me embrace my crazy side; and Claire, for encouraging me to learn new things and inspiring me to just try.</p>
-          <p className="p">I'm not looking for work at the moment. I currently work at <a className="a" href="https://mintere.com" target="_blank">Mintere</a> and interact with friends at <a className="a" href="https://hackclub.com" target="_blank">Hack Club</a>. You can hire me competitively starting <b>Fall 2021</b>. You can contact me at my social media linked below or at <a className="pointer-events-auto" href="mailto:sarthak@sarthakmohanty.me" target="_blank">sarthak@sarthakmohanty.me</a>. Thanks for being here.</p>
+          <p className="p">I'm not looking for work at the moment. I currently work at <a className="a" href="https://mintere.com" target="_blank">Mintere</a> and interact with friends at <a className="a" href="https://hackclub.com" target="_blank">Hack Club</a>. You can hire me competitively starting <b>Summer 2022</b>. You can contact me at my social media linked below or at <a className="pointer-events-auto" href="mailto:sarthak@sarthakmohanty.me" target="_blank">sarthak@sarthakmohanty.me</a>. Thanks for being here.</p>
           <details className="pointer-events-auto pb-10">
             <summary className="opacity-70">CV</summary>
             <h1 className="cv-heading">
               Experience
             </h1>
+            <li>Camp Assistant at Youth Code Jam, June 2021 - present</li>
             <li>Open Source Lead at Fiveable, March 2021 - present</li>
             <li>Director of Branding at HackIndiana, February 2021 - present</li>
             <li>Co-organizer at AngelHacks, January 2021 - present</li>
