@@ -20,25 +20,28 @@ export default function Home() {
               Experience
             </h1>
             <li>Camp Assistant at Youth Code Jam, June 2021 - present</li>
-            <li>Open Source Lead at Fiveable, March 2021 - present</li>
-            <li>Director of Branding at HackIndiana, February 2021 - present</li>
+            <li>Engineering Intern at Fiveable, July 2021 - present</li>
+            <li>Open Source Lead at Fiveable, March 2021 - July 2021</li>
             <li>Co-organizer at AngelHacks, January 2021 - present</li>
-            <li>Web developer and design at Mintere, LLC, December 2020 - present</li>
+            <li>Web developer and design at Mintere, LLC, December 2020 - August 2021</li>
             <li>Lead Organizer at Alamo City Hacks, October 2020 - present</li>
             <li>Rising senior at Brandeis High School, August 2019 - June 2022.</li>
             <li>Social Media at Fiveable, May 2019 - August 2019</li>
             <li>Student Volunteer at Youth Code Jam, May 2018 - present</li>
             <h1 className="cv-heading">
-              Projects
+              Notable Projects
             </h1>
             <li>Zoom Dashboard [Archived]</li>
-            <li>Resource Bank</li>
+            <li>Resource Bank [Disabled]</li>
+            <li>Supergiant (the UI library I use)</li>
             <li>Link Shortener</li>
+            <li><a href="https://https://hackfoundation-org.hackclub.dev" className="underline">Hack Foundation</a></li>
+            <li><a href="https://bookworm.design" className="underline">Claire Wang's Website</a></li>
+            <li><a href="https://www.figma.com/community/file/973833413205118397" className="underline">HaaS - Hack as a Service</a></li>
             <li><a href="https://alamocityhacks.com" className="underline">Hyper by Alamo City Hacks</a></li>
             <li><a href="https://angelhacks.org" className="underline">AngelHacks 2.0</a></li>
-            <li><a href="https://vote.hackclub.com" className="underline">Hack Club Vote</a></li>
+            <li>Hack Club Vote</li>
             <li><a href="https://open.fiveable.me" className="underline">Fiveable Open Source Initiative</a></li>
-            <li>Dunes by HackIndiana</li>
             <h1 className="cv-heading">
               Press
             </h1>
@@ -46,7 +49,7 @@ export default function Home() {
             <h1 className="cv-heading">
               Links
             </h1>
-            <li><a href="https://github.com/sarthaktexas" target="_blank">GitHub</a>, <a href="https://dribbble.com/sarthakmohanty">Dribbble</a></li>
+            <li><a href="https://github.com/sarthaktexas" target="_blank">GitHub</a>, <a href="https://dribbble.com/sarthakmohanty">Dribbble</a>, <a href="https://figma.com/@srtk">Figma</a></li>
             <li><a href="https://linkedin.com/in/sarthaktexas" target="_blank">LinkedIn</a>, <a href="https://medium.com/@sarthaktexas" target="_blank">Medium</a>, <a href="https://twitter.com/sarthaktexas" target="_blank">Twitter</a>, <a href="https://instagram.com/sarthakmohan.ty" target="_blank">Instagram</a></li>
             <li>Email me at <a href="mailto:sarthak@sarthakmohanty.me" target="_blank">sarthak@sarthakmohanty.me</a></li>
             <h1 className="cv-heading">
