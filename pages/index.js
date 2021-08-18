@@ -11,9 +11,9 @@ export default function Home() {
         <section className="flex flex-col space-y-5">
           <h1 className="font-bold text-5xl">Sarthak Mohanty</h1>
           <Nav />
-          <p className="p">I'm an ambitious high school senior who believes that when creativity is expressed, the result can be beautiful. I'm a full stack developer and designer focusing on <span>interactive web experiences</span> and <span>natural design</span>.</p>
+          <p className="p">I'm a full stack developer and designer focusing on creating interactive web experiences and creating beautiful things.</p>
           <p className="p">I currently live and attend school down in the heart of the Texas hill country with my playful (and more responsible) friends. I'm glad to have them and I couldn't have reached where I am without them. In particular, thank you Christina, for keeping me sane when I'm insane; Lillian, for staying by my side since the beginning of time; Jacob, for letting me embrace my crazy side; and Claire, for encouraging me to learn new things and inspiring me to just try.</p>
-          <p className="p">I'm not looking for work at the moment. You can hire me competitively starting <b>Summer 2022</b>. You can contact me at my social media linked below or at <a className="pointer-events-auto" href="mailto:sarthak@sarthakmohanty.me" target="_blank">sarthak@sarthakmohanty.me</a>. Thanks for being here.</p>
+          <p className="p">I occasionally work on projects for select clients. To work with me or learn more, contact me at my social media linked below or at <a className="pointer-events-auto" href="mailto:sarthak@sarthakmohanty.me" target="_blank">sarthak@sarthakmohanty.me</a>. Thanks for being here.</p>
           <details className="pointer-events-auto pb-10">
             <summary className="opacity-70">CV</summary>
             <h1 className="cv-heading">
@@ -52,6 +52,7 @@ export default function Home() {
             <li><a href="https://github.com/sarthaktexas" target="_blank">GitHub</a>, <a href="https://dribbble.com/sarthakmohanty">Dribbble</a>, <a href="https://figma.com/@srtk">Figma</a></li>
             <li><a href="https://linkedin.com/in/sarthaktexas" target="_blank">LinkedIn</a>, <a href="https://medium.com/@sarthaktexas" target="_blank">Medium</a>, <a href="https://twitter.com/sarthaktexas" target="_blank">Twitter</a>, <a href="https://instagram.com/sarthakmohan.ty" target="_blank">Instagram</a></li>
             <li>Email me at <a href="mailto:sarthak@sarthakmohanty.me" target="_blank">sarthak@sarthakmohanty.me</a></li>
+            <li><a href="https://are.na/sarthak-mohanty" target="_blank">are.na</a>, <a href="https://futureland.tv/srtk">Futureland</a>, <a href="https://strava.com/athletes/sarthaktexas">Strava</a></li>
             <h1 className="cv-heading">
               Previous
             </h1>
