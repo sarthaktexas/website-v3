@@ -51,8 +51,8 @@ export default function Home() {
             </h1>
             <li><a href="https://github.com/sarthaktexas" target="_blank">GitHub</a>, <a href="https://dribbble.com/sarthakmohanty">Dribbble</a>, <a href="https://figma.com/@srtk">Figma</a></li>
             <li><a href="https://linkedin.com/in/sarthaktexas" target="_blank">LinkedIn</a>, <a href="https://medium.com/@sarthaktexas" target="_blank">Medium</a>, <a href="https://twitter.com/sarthaktexas" target="_blank">Twitter</a>, <a href="https://instagram.com/sarthakmohan.ty" target="_blank">Instagram</a></li>
-            <li>Email me at <a href="mailto:sarthak@sarthakmohanty.me" target="_blank">sarthak@sarthakmohanty.me</a></li>
             <li><a href="https://are.na/sarthak-mohanty" target="_blank">are.na</a>, <a href="https://futureland.tv/srtk">Futureland</a>, <a href="https://strava.com/athletes/sarthaktexas">Strava</a></li>
+            <li>Email me at <a href="mailto:sarthak@sarthakmohanty.me" target="_blank">sarthak@sarthakmohanty.me</a></li>
             <h1 className="cv-heading">
               Previous
             </h1>
