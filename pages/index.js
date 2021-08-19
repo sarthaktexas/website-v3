@@ -35,7 +35,7 @@ export default function Home() {
             <li>Resource Bank [Disabled]</li>
             <li>Supergiant (the UI library I use)</li>
             <li>Link Shortener</li>
-            <li><a href="https://https://hackfoundation-org.hackclub.dev" className="underline">Hack Foundation</a></li>
+            <li><a href="https://hackfoundation-org.hackclub.dev" className="underline">Hack Foundation</a></li>
             <li><a href="https://bookworm.design" className="underline">Claire Wang's Website</a></li>
             <li><a href="https://www.figma.com/community/file/973833413205118397" className="underline">HaaS - Hack as a Service</a></li>
             <li><a href="https://alamocityhacks.com" className="underline">Hyper by Alamo City Hacks</a></li>
